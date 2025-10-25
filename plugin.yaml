@@ -1,0 +1,10 @@
+apiVersion: nap.nupi.ai/v1alpha1
+kind: Plugin
+type: pipeline-cleaner
+metadata:
+  name: Default pipeline cleaner
+  catalog: ai.nupi
+  slug: pipeline-cleaner-default
+  version: 0.0.1
+spec:
+  main: main.js
