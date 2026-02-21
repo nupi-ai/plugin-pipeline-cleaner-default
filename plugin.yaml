@@ -3,7 +3,7 @@ kind: Plugin
 type: pipeline-cleaner
 metadata:
   name: Default pipeline cleaner
-  catalog: ai.nupi
+  namespace: ai.nupi
   slug: pipeline-cleaner-default
   version: 0.0.1
 spec:
